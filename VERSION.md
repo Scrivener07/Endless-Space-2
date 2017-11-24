@@ -1,0 +1,4 @@
+- **Build:** Steam database build IDs are updated when a new "build" of an application is pushed.
+- **Version:** The current game version.
+- **Update:** The games current update version.
+- **Language:** The current game language.
