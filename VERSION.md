@@ -1,4 +1,4 @@
-- **Build:** Steam database build IDs are updated when a new "build" of an application is pushed.
-- **Version:** The current game version.
-- **Update:** The games current update version.
-- **Language:** The current game language.
+- **Build:** 2290135
+- **Version:** 5.5.1.7352351
+- **Update:** 1.1.0 S5 GOLD-Public
+- **Language:** English
